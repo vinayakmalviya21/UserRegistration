@@ -1,0 +1,10 @@
+npm init
+npm i body-parser ejs express mongodb mongoose nodemon
+
+-------------------------------------
+Body Parser is a middleware of Node JS used to handle HTTP POST request. Body Parser can parse string based client request body into JavaScript Object which we can use in our application.
+
+EJS (Embedded JavaScript Templating) is one of the most popular template engines for JavaScript. As the name suggests, it lets us embed JavaScript code in a template language that is then used to generate HTML.
+--------------------------------------
+
+nodemon server.js to run js file
